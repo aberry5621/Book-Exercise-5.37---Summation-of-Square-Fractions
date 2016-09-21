@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E286136A1D930227004620F4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E28613691D930227004620F4 /* main.cpp */; };
+		E286136A1D930227004620F4 /* summation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E28613691D930227004620F4 /* summation.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		E28613661D930227004620F4 /* Boox Exercise 5.37 - Summation of Square Fractions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Boox Exercise 5.37 - Summation of Square Fractions"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E28613691D930227004620F4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E28613691D930227004620F4 /* summation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = summation.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		E28613681D930227004620F4 /* Boox Exercise 5.37 - Summation of Square Fractions */ = {
 			isa = PBXGroup;
 			children = (
-				E28613691D930227004620F4 /* main.cpp */,
+				E28613691D930227004620F4 /* summation.cpp */,
 			);
 			path = "Boox Exercise 5.37 - Summation of Square Fractions";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E286136A1D930227004620F4 /* main.cpp in Sources */,
+				E286136A1D930227004620F4 /* summation.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
